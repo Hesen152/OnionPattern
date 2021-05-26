@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Infrastructure\\OnionArcExample.Persistence\\OnionArcExample.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\OnionArcExample.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\OnionArcExample.Application.csproj",
+        "projectName": "OnionArcExample.Application",
+        "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\OnionArcExample.Application.csproj",
+        "packagesPath": "C:\\Users\\Gençay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gençay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj",
+        "projectName": "OnionArcExample.Domain",
+        "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gençay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gençay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Infrastructure\\OnionArcExample.Persistence\\OnionArcExample.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Infrastructure\\OnionArcExample.Persistence\\OnionArcExample.Persistence.csproj",
+        "projectName": "OnionArcExample.Persistence",
+        "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Infrastructure\\OnionArcExample.Persistence\\OnionArcExample.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Gençay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Infrastructure\\OnionArcExample.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gençay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\OnionArcExample.Application.csproj": {
+                "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Application\\OnionArcExample.Application.csproj"
+              },
+              "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gençay\\Desktop\\OnionArcExample\\src\\Core\\OnionArcExample.Domain\\OnionArcExample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0-preview1.19506.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
